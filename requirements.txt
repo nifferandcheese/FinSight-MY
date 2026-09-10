@@ -1,0 +1,8 @@
+@"
+streamlit
+pandas
+joblib
+plotly
+scikit-learn
+xgboost
+"@ | Set-Content requirements.txt
